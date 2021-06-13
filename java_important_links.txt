@@ -1,0 +1,17 @@
+1. Java 8 optional features
+
+link:  https://www.baeldung.com/java-optional
+
+Note: Map in java 8 is used to transform value from one form to another form.
+The map call is simply used to transform a value to some other value
+
+Note: Difference Between orElse and orElseGet()
+ orElse will execute even condition is true of false but orElseGet() will only called if value is false or in else case 
+ so orElse() could create objects which never used to
+
+
+ Note: Difference between map and flatmap:
+
+ Just like the map() method, we also have the flatMap() method as an alternative for transforming values.
+ The difference is that map transforms values only when they are unwrapped whereas flatMap takes 
+ a wrapped value and unwraps it before transforming it.
