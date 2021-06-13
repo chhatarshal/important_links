@@ -4,7 +4,7 @@ Question: How can I merge latest changes from master branch into dev branch?
 
 Answer: Take below steps
 
-sgit checkout yourbranch      # gets you "on branch dmgr2"
+git checkout yourbranch      # gets you "on branch dmgr2"
 git fetch origin        # gets you up to date with origin
 git merge origin/master
 
