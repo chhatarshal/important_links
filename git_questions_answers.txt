@@ -1,0 +1,18 @@
+https://stackoverflow.com/questions/20101994/git-pull-from-master-into-the-development-branch
+
+Question: How can I merge latest changes from master branch into dev branch?
+
+Answer: Take below steps
+
+sgit checkout yourbranch      # gets you "on branch dmgr2"
+git fetch origin        # gets you up to date with origin
+git merge origin/master
+
+now if you want to push these changes to master
+
+git push
+
+
+
+[-----------------------------------]
+
