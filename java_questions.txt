@@ -1,0 +1,20 @@
+
+source: https://www.baeldung.com/java-8-functional-interfaces#Functional
+
+Question : Describe Some of the Functional Interfaces in the Standard Librar.
+Answer : 
+There are a lot of functional interfaces in the java.util.function package. The more common ones include, but are not limited to:
+
+Function :  it takes one argument and returns a result
+Consumer – it takes one argument and returns no result (represents a side effect)
+Supplier – it takes no arguments and returns a result
+Predicate – it takes one argument and returns a boolean
+BiFunction – it takes two arguments and returns a result
+BinaryOperator – it is similar to a BiFunction, taking two arguments and returning a result. 
+                The two arguments and the result are all of the same types.
+
+UnaryOperator – it is similar to a Function, taking a single argument and returning a result of the same type
+
+
+Question: Functional Interfaces ?
+Answer : Any interface with a SAM(Single Abstract Method) is a functional interface
