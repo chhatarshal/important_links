@@ -16,3 +16,9 @@ git push
 
 [-----------------------------------]
 
+Question: How can i use personal token to push my changes to git repo?
+
+Answer: 
+You need to generate personal token then you need to run below command from your local repository
+
+git remote set-url origin https://[USERNAME]:[PERSONAL_TOKEN]@github.com/[USERNAME]/APIHub.git
