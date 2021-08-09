@@ -7,3 +7,13 @@ http://www.thatjsdude.com/interview/js2.html#doubleVsTripleEqual
 https://www.codementor.io/@nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
 
 All above Links I got from Udemy course
+
+
+Useful Resources & Links
+A discussion on "classes vs IDs": 
+https://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
+When is using !important  okay? => 
+https://css-tricks.com/when-using-important-is-the-right-choice/
+The :not()  pseudo class: 
+https://developer.mozilla.org/en-US/docs/Web/CSS/:not
+Can I Use: https://caniuse.com/
