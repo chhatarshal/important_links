@@ -22,3 +22,9 @@ Answer:
 You need to generate personal token then you need to run below command from your local repository
 
 git remote set-url origin https://[USERNAME]:[PERSONAL_TOKEN]@github.com/[USERNAME]/APIHub.git
+
+
+
+Q.  How to fetch all Git branches
+
+Ans: git fetch --all  [Source: https://stackoverflow.com/questions/10312521/how-to-fetch-all-git-branches]
