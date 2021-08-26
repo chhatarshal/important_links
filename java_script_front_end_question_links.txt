@@ -17,3 +17,6 @@ https://css-tricks.com/when-using-important-is-the-right-choice/
 The :not()  pseudo class: 
 https://developer.mozilla.org/en-US/docs/Web/CSS/:not
 Can I Use: https://caniuse.com/
+
+
+https://dorey.github.io/JavaScript-Equality-Table/
