@@ -23,3 +23,6 @@ https://dorey.github.io/JavaScript-Equality-Table/
 
 Class VS Constructor VS Prototype
 https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e
+
+28 April 2022 This below link is good article about hoisting of variables and functions in javascript
+https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript
