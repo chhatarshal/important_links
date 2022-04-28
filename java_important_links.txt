@@ -6,7 +6,7 @@ Note: Map in java 8 is used to transform value from one form to another form.
 The map call is simply used to transform a value to some other value
 
 Note: Difference Between orElse and orElseGet()
- orElse will execute even condition is true of false but orElseGet() will only called if value is false or in else case 
+ orElse will execute even if condition is true or false but orElseGet() will only called if value is false or in else case 
  so orElse() could create objects which never used to
 
 
