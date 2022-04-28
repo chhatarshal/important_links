@@ -26,3 +26,6 @@ https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-
 
 28 April 2022 This below link is good article about hoisting of variables and functions in javascript
 https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript
+
+28 April 2022 Closures Deep Understanding 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
