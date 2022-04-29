@@ -29,3 +29,9 @@ https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javas
 
 28 April 2022 Closures Deep Understanding 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+
+29 April 2022 Hidden Classes concept to write optimized java script code
+https://medium.com/swlh/writing-optimized-code-in-js-by-understanding-hidden-classes-3dd42862ad1d
+
+29 April 2022 Inline caching concept to write optimized java script code
+https://github.com/sq/JSIL/wiki/Optimizing-dynamic-JavaScript-with-inline-caches
