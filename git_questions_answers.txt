@@ -28,3 +28,13 @@ git remote set-url origin https://[USERNAME]:[PERSONAL_TOKEN]@github.com/[USERNA
 Q.  How to fetch all Git branches
 
 Ans: git fetch --all  [Source: https://stackoverflow.com/questions/10312521/how-to-fetch-all-git-branches]
+
+
+
+ Q. What is the command used to delete a branch?
+ 
+ Ans: To delete a branch we can simply use the command git branch –d [head] .
+      To delete a branch locally, we can simply run the command: git branch -d <local_branch_name>
+      To delete a branch remotely, run the command: git push origin --delete <remote_branch_name>
+      Deleting a branching scenario occurs for multiple reasons. One such reason is to get rid of the feature branches once it has been merged into the development
+      branch.
